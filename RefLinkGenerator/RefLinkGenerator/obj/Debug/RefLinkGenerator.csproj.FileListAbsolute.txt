@@ -1,9 +1,0 @@
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\bin\Debug\RefLinkGenerator.exe.config
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\bin\Debug\RefLinkGenerator.exe
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\bin\Debug\RefLinkGenerator.pdb
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\obj\Debug\RefLinkGenerator.csprojResolveAssemblyReference.cache
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\obj\Debug\RefLinkGenerator.Form1.resources
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\obj\Debug\RefLinkGenerator.Properties.Resources.resources
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\obj\Debug\RefLinkGenerator.csproj.GenerateResource.Cache
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\obj\Debug\RefLinkGenerator.exe
-E:\Projekte\erste geh-versuche\RefLinkGenerator\RefLinkGenerator\obj\Debug\RefLinkGenerator.pdb
